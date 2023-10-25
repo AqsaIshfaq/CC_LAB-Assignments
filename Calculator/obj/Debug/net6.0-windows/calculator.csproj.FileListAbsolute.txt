@@ -1,0 +1,16 @@
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\bin\Debug\net6.0-windows\calculator.exe
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\bin\Debug\net6.0-windows\calculator.deps.json
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\bin\Debug\net6.0-windows\calculator.runtimeconfig.json
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\bin\Debug\net6.0-windows\calculator.dll
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\bin\Debug\net6.0-windows\calculator.pdb
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\obj\Debug\net6.0-windows\calculator.Form1.resources
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\obj\Debug\net6.0-windows\calculator.csproj.GenerateResource.cache
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\obj\Debug\net6.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfo.cs
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\obj\Debug\net6.0-windows\calculator.csproj.CoreCompileInputs.cache
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\obj\Debug\net6.0-windows\calculator.dll
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\obj\Debug\net6.0-windows\refint\calculator.dll
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\obj\Debug\net6.0-windows\calculator.pdb
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\obj\Debug\net6.0-windows\calculator.genruntimeconfig.cache
+C:\Users\timeline\Downloads\CC-Lab-main\CC-Lab-main\Calculator\obj\Debug\net6.0-windows\ref\calculator.dll
