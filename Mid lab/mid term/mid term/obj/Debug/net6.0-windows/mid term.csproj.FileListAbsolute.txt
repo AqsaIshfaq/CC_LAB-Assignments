@@ -1,0 +1,16 @@
+C:\Users\timeline\Source\Repos\mid term\mid term\obj\Debug\net6.0-windows\mid_term.Form1.resources
+C:\Users\timeline\Source\Repos\mid term\mid term\obj\Debug\net6.0-windows\mid term.csproj.GenerateResource.cache
+C:\Users\timeline\Source\Repos\mid term\mid term\obj\Debug\net6.0-windows\mid term.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timeline\Source\Repos\mid term\mid term\obj\Debug\net6.0-windows\mid term.AssemblyInfoInputs.cache
+C:\Users\timeline\Source\Repos\mid term\mid term\obj\Debug\net6.0-windows\mid term.AssemblyInfo.cs
+C:\Users\timeline\Source\Repos\mid term\mid term\obj\Debug\net6.0-windows\mid term.csproj.CoreCompileInputs.cache
+C:\Users\timeline\Source\Repos\mid term\mid term\bin\Debug\net6.0-windows\mid term.exe
+C:\Users\timeline\Source\Repos\mid term\mid term\bin\Debug\net6.0-windows\mid term.deps.json
+C:\Users\timeline\Source\Repos\mid term\mid term\bin\Debug\net6.0-windows\mid term.runtimeconfig.json
+C:\Users\timeline\Source\Repos\mid term\mid term\bin\Debug\net6.0-windows\mid term.dll
+C:\Users\timeline\Source\Repos\mid term\mid term\bin\Debug\net6.0-windows\mid term.pdb
+C:\Users\timeline\Source\Repos\mid term\mid term\obj\Debug\net6.0-windows\mid term.dll
+C:\Users\timeline\Source\Repos\mid term\mid term\obj\Debug\net6.0-windows\refint\mid term.dll
+C:\Users\timeline\Source\Repos\mid term\mid term\obj\Debug\net6.0-windows\mid term.pdb
+C:\Users\timeline\Source\Repos\mid term\mid term\obj\Debug\net6.0-windows\mid term.genruntimeconfig.cache
+C:\Users\timeline\Source\Repos\mid term\mid term\obj\Debug\net6.0-windows\ref\mid term.dll
